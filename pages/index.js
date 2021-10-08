@@ -43,6 +43,12 @@ export default function Home() {
           </a>
         </div>
       </main>
+      <footer class="v-footer v-sheet theme--dark" data-v-00b7a31a="" data-booted="true">
+      <div class="container text-caption text--secondary" data-v-00b7a31a="">
+            Accelerated &amp; hosted by <a href="https://www.4everland.org/">4EVERLAND</a>
+      </div>
+      </footer>
+
     </div>
   );
 }
